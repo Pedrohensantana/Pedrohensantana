@@ -4,3 +4,4 @@
 - Faço curso de Pensamento Computacional, sou iniciante na parte de programação mais já estou amando.
 - Meu contato via email: pedro.henrique.santana@escola.pr.gov.br
 :muscle: :pray:
+:trident:
